@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: e49ee68c77e4cfc47a3f2c72d1ab95e6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box 1
+    100002: Box 2
+    100004: Door B
+    100006: Door N
+    100008: Door R
+    100010: Floor B 1
+    100012: Floor B 2
+    100014: Floor B 3
+    100016: Floor B 4
+    100018: Floor N 1
+    100020: Floor N 2
+    100022: Floor N 3
+    100024: Floor N 4
+    100026: Floor R 1
+    100028: Floor R 2
+    100030: Floor R 3
+    100032: Floor R 4
+    100034: //RootNode
+    100036: Pillar B
+    100038: Pillar N
+    100040: Pillar R
+    100042: Wall B 1
+    100044: Wall B 2
+    100046: Wall B2
+    100048: Wall N 1
+    100050: Wall N 2
+    100052: Wall R 1
+    100054: Ladder
+    100056: Shield 1
+    100058: Shield 2
+    100060: Sword B
+    100062: Sword N
+    100064: Sword R
+    100066: Sword Rack B
+    100068: Sword Rack Empty
+    100070: Sword Rack N
+    100072: Sword Rack R
+    400000: Box 1
+    400002: Box 2
+    400004: Door B
+    400006: Door N
+    400008: Door R
+    400010: Floor B 1
+    400012: Floor B 2
+    400014: Floor B 3
+    400016: Floor B 4
+    400018: Floor N 1
+    400020: Floor N 2
+    400022: Floor N 3
+    400024: Floor N 4
+    400026: Floor R 1
+    400028: Floor R 2
+    400030: Floor R 3
+    400032: Floor R 4
+    400034: //RootNode
+    400036: Pillar B
+    400038: Pillar N
+    400040: Pillar R
+    400042: Wall B 1
+    400044: Wall B 2
+    400046: Wall B2
+    400048: Wall N 1
+    400050: Wall N 2
+    400052: Wall R 1
+    400054: Ladder
+    400056: Shield 1
+    400058: Shield 2
+    400060: Sword B
+    400062: Sword N
+    400064: Sword R
+    400066: Sword Rack B
+    400068: Sword Rack Empty
+    400070: Sword Rack N
+    400072: Sword Rack R
+    2300000: Box 1
+    2300002: Box 2
+    2300004: Door B
+    2300006: Door N
+    2300008: Door R
+    2300010: Floor B 1
+    2300012: Floor B 2
+    2300014: Floor B 3
+    2300016: Floor B 4
+    2300018: Floor N 1
+    2300020: Floor N 2
+    2300022: Floor N 3
+    2300024: Floor N 4
+    2300026: Floor R 1
+    2300028: Floor R 2
+    2300030: Floor R 3
+    2300032: Floor R 4
+    2300034: Pillar B
+    2300036: Pillar N
+    2300038: Pillar R
+    2300040: Wall B 1
+    2300042: Wall B 2
+    2300044: Wall B2
+    2300046: Wall N 1
+    2300048: Wall N 2
+    2300050: Wall R 1
+    2300052: Ladder
+    2300054: Shield 1
+    2300056: Shield 2
+    2300058: Sword B
+    2300060: Sword N
+    2300062: Sword R
+    2300064: Sword Rack B
+    2300066: Sword Rack Empty
+    2300068: Sword Rack N
+    2300070: Sword Rack R
+    3300000: Box 1
+    3300002: Box 2
+    3300004: Door B
+    3300006: Door N
+    3300008: Door R
+    3300010: Floor B 1
+    3300012: Floor B 2
+    3300014: Floor B 3
+    3300016: Floor B 4
+    3300018: Floor N 1
+    3300020: Floor N 2
+    3300022: Floor N 3
+    3300024: Floor N 4
+    3300026: Floor R 1
+    3300028: Floor R 2
+    3300030: Floor R 3
+    3300032: Floor R 4
+    3300034: Pillar B
+    3300036: Pillar N
+    3300038: Pillar R
+    3300040: Wall B 1
+    3300042: Wall B 2
+    3300044: Wall B2
+    3300046: Wall N 1
+    3300048: Wall N 2
+    3300050: Wall R 1
+    3300052: Ladder
+    3300054: Shield 1
+    3300056: Shield 2
+    3300058: Sword B
+    3300060: Sword N
+    3300062: Sword R
+    3300064: Sword Rack B
+    3300066: Sword Rack Empty
+    3300068: Sword Rack N
+    3300070: Sword Rack R
+    4300000: Box 2
+    4300002: Box 1
+    4300004: Door N
+    4300006: Door R
+    4300008: Door B
+    4300010: Wall N 2
+    4300012: Wall B 2
+    4300014: Wall R 1
+    4300016: Wall B 1
+    4300018: Wall B2
+    4300020: Wall N 1
+    4300022: Pillar R
+    4300024: Pillar B
+    4300026: Pillar N
+    4300028: Floor R 1
+    4300030: Floor R 2
+    4300032: Floor R 3
+    4300034: Floor R 4
+    4300036: Floor B 1
+    4300038: Floor B 2
+    4300040: Floor B 3
+    4300042: Floor B 4
+    4300044: Floor N 4
+    4300046: Floor N 3
+    4300048: Floor N 2
+    4300050: Floor N 1
+    4300052: Ladder
+    4300054: Shield 2
+    4300056: Shield 1
+    4300058: Sword Rack N
+    4300060: Sword Rack B
+    4300062: Sword Rack R
+    4300064: Sword Rack Empty
+    4300066: Sword N
+    4300068: Sword R
+    4300070: Sword B
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amythiest
+    second: {fileID: 2100000, guid: d6cb7b7051bfda2438707982d876359a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base.000
+    second: {fileID: 2100000, guid: 35f6ddeff8adecd4e82316148531c90b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: c97839f7ae7a8444e9a13eed29fedb8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blade
+    second: {fileID: 2100000, guid: 4b4ebb482a06a04488691e9b73a14539, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue Team
+    second: {fileID: 2100000, guid: d68dd1dbe1d99374795f4b015c5756a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diamond
+    second: {fileID: 2100000, guid: 6ac3a098b5aed9d40aabde406fba4467, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emerald
+    second: {fileID: 2100000, guid: b8508cb0fc27cdc40abb0538c7b038f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 9b7f569f050e64941b63d8dbfcd49d2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand Guard
+    second: {fileID: 2100000, guid: 98927b36f3bde61499f1cc936bd82079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle
+    second: {fileID: 2100000, guid: da6732636b3f444458b1b4e798a9d073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Team
+    second: {fileID: 2100000, guid: 137248d3b057603469334f772d3f4bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ruby
+    second: {fileID: 2100000, guid: 19576b4bd957fb34d84fde81e9ad8c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tile
+    second: {fileID: 2100000, guid: 059b52ba6a9f135469cd8a06023d02e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: addde86d196b0b74c861b9e6a3628f1b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
