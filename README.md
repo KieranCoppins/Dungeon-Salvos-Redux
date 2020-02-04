@@ -1,6 +1,8 @@
 # Dungeon-Salvos-Redux
 A remake of my game dungeon salvos with the Unity 3D engine to bring the ASCII game to a 3D world.
 
+Latest Update included updating the project to Unity3D 2019.3.0f6 and updating it to the newer database 2.
+
 Hi, Thank you for downloading my Alpha Release!
 
 How to launch the demonstration:
